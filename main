@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>相模原市駅前再開発 3案比較</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #007bff;
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #007bff;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            font-size: 1.5em;
+        }
+        p, ul {
+            margin-bottom: 15px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #dee2e6;
+        }
+        th {
+            background-color: #007bff;
+            color: #ffffff;
+            font-weight: 700;
+        }
+        td {
+            background-color: #ffffff;
+        }
+        tr:hover td {
+            background-color: #e9ecef;
+        }
+        .circle { color: #28a745; font-weight: bold; }
+        .triangle { color: #ffc107; font-weight: bold; }
+        .cross { color: #dc3545; font-weight: bold; }
+        .section {
+            margin-bottom: 30px;
+        }
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+            h1 {
+                font-size: 1.5em;
+            }
+            h2 {
+                font-size: 1.2em;
+            }
+            table, th, td {
+                display: block;
+                width: 100%;
+            }
+            th, td {
+                padding: 10px;
+                box-sizing: border-box;
+            }
+            th {
+                text-align: center;
+            }
+            td {
+                border-bottom: none;
+            }
+            tr {
+                margin-bottom: 10px;
+                border-bottom: 2px solid #dee2e6;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>相模原市駅前再開発 3案比較</h1>
+
+        <div class="section">
+            <h2>1. 評価基準</h2>
+            <p>以下の項目で3案を比較し、1位を〇（優）、2位を△（中）、3位を×（劣）で評価します。</p>
+            <ul>
+                <li><strong>収益力（開発企業側）</strong>：開発企業（DeNA、民間投資家、JAXA連携企業等）の賃料収入、運営収益、投資回収期間。純収益100億円/年、投資回収10年以内が〇。</li>
+                <li><strong>税収増</strong>：相模原市への税収（消費税、固定資産税）、経済効果。税収10億円/年、経済効果100億円/年が〇。</li>
+                <li><strong>集客力</strong>：年間集客人数、人口流出抑制効果（若年層、ファミリー、高齢者）。集客200万人/年、若年層流出抑制30人/年以上が〇。</li>
+                <li><strong>雇用創出</strong>：雇用人数、年収水準、流出抑制効果。雇用9,000人以上、年収600万円中心が〇。</li>
+                <li><strong>環境面（クリーンエネルギー含む）</strong>：緑地面積、クリーンエネルギー供給（太陽光等）、高齢化対応（2070年40.2%）。緑地5ha、クリーンエネルギー2,810kW、高齢者流出抑制20人/年が〇。</li>
+                <li><strong>小田急延伸起爆剤</strong>：乗客寄与（4万人/日の割合）、還元額、黒字化時期（単年度2040年、累積2068年）。乗客1万人/日、還元19.2億円/年、単年度2040年が〇。</li>
+                <li><strong>防災面</strong>：収容人数（人口72.48万人の割合）、耐震・洪水対策。41,000人（5.7%）が〇。</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>2. 3案の比較と評価</h2>
+            <h3>スタジアム・商業複合型</h3>
+            <ul>
+                <li><strong>収益力（開発企業側）</strong>：<span class="circle">〇</span>（114.9～116.6億円/年）。DeNA（投資150億円）はスタジアム（3ha、緑地0.91ha）・外周緑地2.5haで賃料40億円/年、イベント20億円/年。民間投資家（150億円）は商業（148,000㎡）で67.9億円/年。投資回収10年（1,244億円）。3案中最高。</li>
+                <li><strong>税収増</strong>：<span class="circle">〇</span>（10億円/年）。経済効果100億円/年、社会保障費（700億円/年）の1.4%カバー、延伸負担290億円を10年回収。最高。</li>
+                <li><strong>集客力</strong>：<span class="circle">〇</span>（200万人/年）。スタジアム150万、商業50万。若年層流出（366人/年）10%（36人/年）、ファミリー（200人/年）5%（10人/年）、高齢者（100人/年）5%（5人/年）抑制。緑地5ha（外周4.5ha＋屋上0.5ha）は20万人/年。最高。</li>
+                <li><strong>雇用創出</strong>：<span class="triangle">△</span>（3,000人）。商業2,000人、スタジアム500人、イベント500人（年収400万円）。若年層流出10%（36人/年）。JR横浜線混雑率117%（ピーク2,100人）。中程度。</li>
+                <li><strong>環境面</strong>：<span class="circle">〇</span>（緑地5ha、2,810kW）。外周4.5ha＋屋上0.5ha、CO2吸収250t/年、高齢者流出5%（5人/年）。スタジアム本体0.91ha別。最高。</li>
+                <li><strong>小田急延伸起爆剤</strong>：<span class="circle">〇</span>（2040年、2068年）。乗客1万/日（4万人/日の25%、9,100人/日）、還元19.2億円/年。延伸なし2041年、2070年。最高。</li>
+                <li><strong>防災面</strong>：<span class="circle">〇</span>（41,000人、5.7%）。地下シェルター、緑地5ha（DeNA3.41ha、その他2.5ha＋屋上0.5ha）で高齢化対応。最高。</li>
+            </ul>
+
+            <h3>イノベーション・ハブ型</h3>
+            <ul>
+                <li><strong>収益力（開発企業側）</strong>：<span class="triangle">△</span>（70億円/年）。JAXA連携企業、スタートアップ、IT企業はオフィス（50万㎡）で賃料40億円/年、商業（5万㎡）20億円/年。投資1,000億円、回収14年。中程度。</li>
+                <li><strong>税収増</strong>：<span class="triangle">△</span>（6.5億円/年）。経済効果65億円/年、社会保障費0.9%カバー、延伸負担12年回収。中程度。</li>
+                <li><strong>集客力</strong>：<span class="cross">×</span>（80万人/年）。オフィス35万、商業30万、イベント15万。若年層流出8%（30人/年）、ファミリー2%（4人/年）、高齢者2%（2人/年）。緑地1haは5万人/年。最低。</li>
+                <li><strong>雇用創出</strong>：<span class="circle">〇</span>（9,000人）。オフィス7,500人、商業1,100人、イベント400人（年収600万円）。若年層流出8%（30人/年）。JR横浜線混雑率117%（ピーク2,389人）。最高。</li>
+                <li><strong>環境面</strong>：<span class="cross">×</span>（緑地1ha、500kW）。CO2吸収50t/年、高齢者流出2%（2人/年）。最低。</li>
+                <li><strong>小田急延伸起爆剤</strong>：<span class="triangle">△</span>（2043年、2073年）。乗客4,500人/日（11.3%、4,800人/日リニアバス）、還元0億円/年。延伸なし2044年、2074年。中程度。</li>
+                <li><strong>防災面</strong>：<span class="triangle">△</span>（30,000人、4.2%）。耐震オフィス、緑地1ha。中程度。</li>
+            </ul>
+
+            <h3>グリーン・ライフ型</h3>
+            <ul>
+                <li><strong>収益力（開発企業側）</strong>：<span class="cross">×</span>（35億円/年）。民間投資家は住宅（3,000戸）で賃料15億円/年、商業・医療10億円/年。投資600億円、回収17年。最低。</li>
+                <li><strong>税収増</strong>：<span class="cross">×</span>（5億円/年）。経済効果50億円/年、社会保障費0.7%カバー、延伸負担15年回収。最低。</li>
+                <li><strong>集客力</strong>：<span class="cross">×</span>（80万人/年）。住宅50万、商業20万、イベント10万。ファミリー流出20%（40人/年）、高齢者20%（20人/年）、若年層5%（18人/年）。緑地3haは10万人/年。最低。</li>
+                <li><strong>雇用創出</strong>：<span class="cross">×</span>（1,500人）。サービス400人、医療600人、商業400人、イベント100人（年収350万円）。ファミリー20%（40人/年）。JR横浜線混雑率118%（ピーク1,050人）。最低。</li>
+                <li><strong>環境面</strong>：<span class="triangle">△</span>（緑地3ha、1,000kW）。CO2吸収150t/年、高齢者流出20%（20人/年）。中程度。</li>
+                <li><strong>小田急延伸起爆剤</strong>：<span class="cross">×</span>（2044年、2073年）。乗客4,000人/日（10%、4,200人/日リニアバス）、還元0億円/年。延伸なし2044年、2074年。最低。</li>
+                <li><strong>防災面</strong>：<span class="cross">×</span>（25,000人、3.5%）。低層耐震住宅、緑地3ha、医療施設小規模。最低。</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>3. 比較表</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>項目</th>
+                        <th>スタジアム・商業複合型</th>
+                        <th>イノベーション・ハブ型</th>
+                        <th>グリーン・ライフ型</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>収益力（開発企業側）</td>
+                        <td><span class="circle">〇</span>（114.9～116.6億円/年）</td>
+                        <td><span class="triangle">△</span>（70億円/年）</td>
+                        <td><span class="cross">×</span>（35億円/年）</td>
+                    </tr>
+                    <tr>
+                        <td>税収増</td>
+                        <td><span class="circle">〇</span>（10億円/年）</td>
+                        <td><span class="triangle">△</span>（6.5億円/年）</td>
+                        <td><span class="cross">×</span>（5億円/年）</td>
+                    </tr>
+                    <tr>
+                        <td>集客力</td>
+                        <td><span class="circle">〇</span>（200万人/年）</td>
+                        <td><span class="cross">×</span>（80万人/年）</td>
+                        <td><span class="cross">×</span>（80万人/年）</td>
+                    </tr>
+                    <tr>
+                        <td>雇用創出</td>
+                        <td><span class="triangle">△</span>（3,000人）</td>
+                        <td><span class="circle">〇</span>（9,000人）</td>
+                        <td><span class="cross">×</span>（1,500人）</td>
+                    </tr>
+                    <tr>
+                        <td>環境面（クリーンエネルギー含む）</td>
+                        <td><span class="circle">〇</span>（緑地5ha、2,810kW）</td>
+                        <td><span class="cross">×</span>（緑地1ha、500kW）</td>
+                        <td><span class="triangle">△</span>（緑地3ha、1,000kW）</td>
+                    </tr>
+                    <tr>
+                        <td>小田急延伸起爆剤</td>
+                        <td><span class="circle">〇</span>（2040年、2068年）</td>
+                        <td><span class="triangle">△</span>（2043年、2073年）</td>
+                        <td><span class="cross">×</span>（2044年、2073年）</td>
+                    </tr>
+                    <tr>
+                        <td>防災面</td>
+                        <td><span class="circle">〇</span>（41,000人、5.7%）</td>
+                        <td><span class="triangle">△</span>（30,000人、4.2%）</td>
+                        <td><span class="cross">×</span>（25,000人、3.5%）</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="section">
+            <h2>4. 結論</h2>
+            <p>スタジアム・商業複合型が5項目（収益力、税収増、集客力、環境面、小田急延伸起爆剤、防災面）で〇、雇用創出で△と総合力最高。収益114.9～116.6億円/年、税収10億円/年、集客200万人/年、雇用3,000人、緑地5ha（外周4.5ha＋屋上0.5ha、DeNA主体3.41ha、スタジアム本体0.91ha別）、クリーンエネルギー2,810kW、延伸2040年、防災41,000人で、人口流出対策（若年層36人/年）、橋本再開発との競合低（住宅なし）、JR横浜線余力（混雑率117%）を確保。リニア新幹線による通勤流出（440人/年）はイベント300回で軽減。イノベーション・ハブ型は雇用創出（9,000人）で〇だが、集客80万人/年、緑地1ha、延伸2043年で2位。グリーン・ライフ型は環境面で△、他6項目×で3位。相模原市の発展にはスタジアム・商業複合型が最適です。</p>
+        </div>
+    </div>
+</body>
+</html>
